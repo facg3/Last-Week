@@ -1,2 +1,2 @@
 # Last-Week
-Simple project about css grid and flex box and the defferent between then also about position and layer
+Simple project about CSS Grid & flex box and the different between them also about position and layer
