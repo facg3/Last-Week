@@ -1,0 +1,19 @@
+{
+  "name": "last-week",
+  "version": "1.0.0",
+  "description": "Simple project about CSS Grid & flex box and the different between them also about position and layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facg3/last-week.git"
+  },
+  "author": "MarwaBj MahmoudHM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facg3/last-week/issues"
+  },
+  "homepage": "https://github.com/facg3/last-week#readme"
+}
